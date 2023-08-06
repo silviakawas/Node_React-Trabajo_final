@@ -12,12 +12,14 @@ const GlobalStyles = createGlobalStyle`
   }
   body{
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: #06051e;
   }
   a{
     text-decoration: none;
     color: inherit;
   }
+
   ul{
     list-style: none;
     margin-top: 0;
